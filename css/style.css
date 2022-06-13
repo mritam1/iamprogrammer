@@ -1,0 +1,120 @@
+.top-container{
+    background-color: #e4f9ff;
+    position: relative;
+    padding-top: 100px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 370px;
+  top: 40px;
+}
+.h{
+  text-align: center;
+  padding-left: 20px;
+  margin-top: 10px;
+  margin-right: auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  color: #2c786c;
+}
+.prog{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+font-size: 38px;
+color: #2c786c;
+font-weight: normal;
+margin-top: 70px;
+}
+.cloud {
+    bottom: 300px;
+    margin-left: 250px;
+}
+.mountain{
+text-align: center;
+}
+.pf{
+  padding-top: 50px;
+  text-align: center;
+}
+.hello{
+  text-align: center;
+  padding-top: 60px;
+  color: #2c786c
+}
+.pra{
+
+  padding-left: 25%;
+  text-align: center;
+  width: 50%;
+}
+.My{
+  text-align: center;
+  padding-top: 100px;
+  color: #2c786c
+}
+.im{
+  padding-top: -173px;
+  padding-left: 411px;
+}
+.imgr{
+    padding-top: 115px;
+  width: 182px;
+  float: left;
+  padding-top: 115px;
+
+}
+.skilll{
+
+}
+.math{
+
+}
+.img-1{
+  padding-top: -173px;
+  padding-left: 1005px;
+}
+.imgr-1{
+    padding-top: 115px;
+  width: 182px;
+  padding-top: 115px;
+
+}
+.im-2{
+  padding-top: -173px;
+  padding-left: 411px;
+}
+.imgr-2{
+    padding-top: 115px;
+  width: 182px;
+  padding-top: 115px;
+
+}
+.track{
+
+}
+.contact{
+  text-align: center;
+  color: #2c786c;
+}
+.Get{
+  text-align: center;
+  color: #2c786c;
+}
+.button{
+margin-top: 20px;
+margin-left: 30px;
+  font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF !important;
+    font-size: 14px;
+    text-shadow: 1px 1px 0 #7cacde;
+    box-shadow: 1px 1px 1px #bee2f9;
+    padding: 10px 25px;
+    border-radius: 8px;
+    background: #63B8EE;
+}
+.buttom{
+  background-color: #66BFBF;
+    margin: 0;
+    padding: 283px 0 20px;
+}
